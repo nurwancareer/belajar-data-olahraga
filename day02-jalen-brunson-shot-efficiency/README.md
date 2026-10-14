@@ -2,7 +2,7 @@
 
 Bagian dari seri [#BelajarDataOlahraga](../README.md).
 
-🔗 **Dashboard:** [Tableau Public](_[link dashboard]_) · 🧵 **Thread:** [Threads](_[link postingan]_)
+🔗 **Dashboard:** [Tableau Public](_[https://public.tableau.com/views/NBAshotprofileefficiency/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]_) · 🧵 **Thread:** [Threads](_[https://www.threads.com/share/QB48vrnYz/]_)
 
 ![Dashboard Day 2](assets/dashboard.png)
 
