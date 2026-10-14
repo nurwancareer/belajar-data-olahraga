@@ -1,0 +1,6 @@
+pandas
+matplotlib
+mplsoccer
+selenium
+undetected-chromedriver
+jupyter
